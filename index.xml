@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example Site</title><link>https://example.com/</link><description>Recent content on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>老爷机的福音lubuntu18.04</title><link>https://example.com/posts/25.html</link><pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate><guid>https://example.com/posts/25.html</guid><description>&lt;img src="https://i.loli.net/2021/08/17/wSN734P98MgFE6A.jpg" alt="Featured image of post 老爷机的福音lubuntu18.04" /&gt;&lt;h2 id="前言"&gt;前言&lt;/h2&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>演示站点</title><link>https://ouzhou.tk/</link><description>Recent content on 演示站点</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://ouzhou.tk/index.xml" rel="self" type="application/rss+xml"/><item><title>老爷机的福音lubuntu18.04</title><link>https://ouzhou.tk/posts/25.html</link><pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate><guid>https://ouzhou.tk/posts/25.html</guid><description>&lt;img src="https://i.loli.net/2021/08/17/wSN734P98MgFE6A.jpg" alt="Featured image of post 老爷机的福音lubuntu18.04" /&gt;&lt;h2 id="前言"&gt;前言&lt;/h2&gt;
 &lt;p&gt;刚238入手瑞角云，系统自带win10系统稍微有点卡，看视频1080,cpu占用80～90,寻思装台linux，在lubuntu和archlinux之间纠结了很久，archlinux也玩了一段时间，各方面都挺好，就是一个缺点，时间长了不更新，容易滚挂，做服务器搭个宝塔什么的，选ubuntu会稳定些，选个最轻便的，就只能是lubuntu18.04了!!!
 下面开始加密l&lt;/p&gt;
 &lt;h2 id="安装lubuntu"&gt;安装lubuntu&lt;/h2&gt;
@@ -110,26 +110,7 @@ sudo ln -s /opt/Telegram/Telegram /usr/local/bin/telegram-desktop&lt;/p&gt;
 &gt;http://packages.deepin.com/deepin/pool/non-free/d/&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="安装wine"&gt;安装wine&lt;/h3&gt;
 &lt;p&gt;&lt;a class="link" href="https://wiki.winehq.org/Download_zhcn" target="_blank" rel="noopener"
-&gt;https://wiki.winehq.org/Download_zhcn&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Archives</title><link>https://example.com/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://example.com/archives/</guid><description/></item><item><title>About</title><link>https://example.com/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/about/</guid><description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class="link" href="https://github.com/gohugoio/hugo/blob/master/LICENSE" target="_blank" rel="noopener"
-&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://github.com/yuin/goldmark" target="_blank" rel="noopener"
-&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://github.com/alecthomas/chroma" target="_blank" rel="noopener"
-&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://github.com/muesli/smartcrop" target="_blank" rel="noopener"
-&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://github.com/spf13/cobra" target="_blank" rel="noopener"
-&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://github.com/spf13/viper" target="_blank" rel="noopener"
-&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class="link" href="https://github.com/gohugoio" target="_blank" rel="noopener"
-&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>An Encrypted Post</title><link>https://example.com/p/an-encrypted-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/p/an-encrypted-post/</guid><description>&lt;p&gt;查看本文需要密码，请微信联系我获取密码:jiuhao998
+&gt;https://wiki.winehq.org/Download_zhcn&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Archives</title><link>https://ouzhou.tk/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://ouzhou.tk/archives/</guid><description/></item><item><title>An Encrypted Post</title><link>https://ouzhou.tk/p/an-encrypted-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ouzhou.tk/p/an-encrypted-post/</guid><description>&lt;p&gt;查看本文需要密码，请微信联系我获取密码:jiuhao998
 密码是888&lt;/p&gt;
 &lt;div class="hugo-encryptor-container"&gt;
 &lt;div class="hugo-encryptor-prompt"&gt;
@@ -157,7 +138,7 @@ style="display: none;"
 &lt;p&gt;This is the content you want to encrypt!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Do remember to close the &lt;code&gt;hugo-encryptor&lt;/code&gt; shortcodes tag:&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>Links</title><link>https://example.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/links/</guid><description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;/div&gt;</description></item><item><title>Links</title><link>https://ouzhou.tk/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ouzhou.tk/links/</guid><description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
 &lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
@@ -183,4 +164,4 @@ style="display: none;"
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;</description></item><item><title>Search</title><link>https://example.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/search/</guid><description/></item></channel></rss>
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;</description></item><item><title>Search</title><link>https://ouzhou.tk/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ouzhou.tk/search/</guid><description/></item><item><title>关于</title><link>https://ouzhou.tk/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ouzhou.tk/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;</description></item></channel></rss>
