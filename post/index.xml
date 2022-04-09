@@ -109,4 +109,32 @@ sudo ln -s /opt/Telegram/Telegram /usr/local/bin/telegram-desktop&lt;/p>
 >http://packages.deepin.com/deepin/pool/non-free/d/&lt;/a>&lt;/p>
 &lt;h3 id="安装wine">安装wine&lt;/h3>
 &lt;p>&lt;a class="link" href="https://wiki.winehq.org/Download_zhcn" target="_blank" rel="noopener"
->https://wiki.winehq.org/Download_zhcn&lt;/a>&lt;/p></description></item></channel></rss>
+>https://wiki.winehq.org/Download_zhcn&lt;/a>&lt;/p></description></item><item><title>An Encrypted Post</title><link>https://example.com/p/an-encrypted-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/p/an-encrypted-post/</guid><description>&lt;p>查看本文需要密码，请微信联系我获取密码:jiuhao998
+密码是888&lt;/p>
+&lt;div class="hugo-encryptor-container">
+&lt;div class="hugo-encryptor-prompt">
+&lt;p>文章的部分内容被密码保护：&lt;/p>
+&lt;/div>
+&lt;div class="hugo-encryptor-form">
+&lt;input
+class="hugo-encryptor-input"
+placeholder='请输入密码'
+/>
+&lt;input
+class="hugo-encryptor-button"
+type="button"
+value='点击验证'
+onclick="_click_handler(this)"
+/>
+&lt;/div>
+&lt;div
+class="hugo-encryptor-cipher-text"
+data-password="888"
+style="display: none;"
+>
+&lt;span style="display: none;">--- DON'T MODIFY THIS LINE ---&lt;/span>
+&lt;h1 id="you-cannot-see-me-unless-youve-got-the-password">You cannot see me unless you&amp;rsquo;ve got the password!&lt;/h1>
+&lt;p>This is the content you want to encrypt!&lt;/p>
+&lt;p>&lt;strong>Do remember to close the &lt;code>hugo-encryptor&lt;/code> shortcodes tag:&lt;/strong>&lt;/p>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
