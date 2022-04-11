@@ -17,7 +17,7 @@ onclick="_click_handler(this)"
 &lt;/div>
 &lt;div
 class="hugo-encryptor-cipher-text"
-data-password="16888"
+data-password="202201"
 style="display: none;"
 >
 &lt;span style="display: none;">--- DON'T MODIFY THIS LINE ---&lt;/span>
